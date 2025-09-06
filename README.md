@@ -41,4 +41,14 @@ Operational best practices
 - Secrets and sensitive data handled via secure variables and secret stores—never committed to the repo.
 - Consistent tagging, naming conventions, and least-privilege access to state and cloud resources.
 
+# Azure DevOps capabilities used
+
+- **Boards & Backlogs**: planning, prioritization, and roadmap visibility.
+- **Work Items & Queries**: end-to-end traceability and tailored reporting.
+- **Pipelines & Releases**: CI/CD automation from build to multi-stage deployments.
+- **Sprints**: predictable delivery cadence and velocity tracking.
+- **Dashboards**: live KPIs and operational health at a glance.
+- **Wiki**: living documentation for runbooks, architecture, and standards.
+- **Artifacts**: secure package management and versioned dependencies.
+
 #Azure #AppService #DevOps #CICD #CloudArchitecture #GitHub #ApplicationInsights #AzureMonitor #terraform
