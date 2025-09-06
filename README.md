@@ -5,6 +5,10 @@
 
 I recently worked on an Azure cloud architecture that automates deployments and provides full observability across environments.
 
+### Application use case: .NET EAD (Distance Learning) IT exam platform
+
+This project underpins an online EAD (Distance Learning) IT examination platform built on ASP.NET (.NET 8) and hosted on Azure App Service. The solution is optimized for reliable, scalable assessments with strong observability and DevOps foundations.
+
 🔹 Source Control: GitHub as the repository for collaboration and versioning
 🔹 CI/CD: Azure DevOps Pipelines for build, test, packaging, and automated deployments
 🔹 Application Hosting:
@@ -51,4 +55,7 @@ Operational best practices
 - **Wiki**: living documentation for runbooks, architecture, and standards.
 - **Artifacts**: secure package management and versioned dependencies.
 
-#Azure #AppService #DevOps #CICD #CloudArchitecture #GitHub #ApplicationInsights #AzureMonitor #terraform
+#Azure #AppService #DevOps #CICD #CloudArchitecture #GitHub #ApplicationInsights #AzureMonitor #terraform #AzureDevops
+
+
+
