@@ -55,6 +55,9 @@ Operational best practices
 - **Wiki**: living documentation for runbooks, architecture, and standards.
 - **Artifacts**: secure package management and versioned dependencies.
 
+- Here is the Github Repository: https://github.com/flaviorssilva1981/AzureDevops-AppService
+- Here is the Azure Devops Project: https://dev.azure.com/fsconsulting505/PROJETO%20IGTI%20-%202025
+
 #Azure #AppService #DevOps #CICD #CloudArchitecture #GitHub #ApplicationInsights #AzureMonitor #terraform #AzureDevops
 
 
