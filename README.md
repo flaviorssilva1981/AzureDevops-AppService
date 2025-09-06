@@ -53,7 +53,8 @@ Operational best practices
 - **Sprints**: predictable delivery cadence and velocity tracking.
 - **Dashboards**: live KPIs and operational health at a glance.
 - **Wiki**: living documentation for runbooks, architecture, and standards.
-- **Artifacts**: secure package management and versioned dependencies.
+
+# Links - URLs
 
 - Here is the Github Repository: https://github.com/flaviorssilva1981/AzureDevops-AppService
 - Here is the Azure Devops Project: https://dev.azure.com/fsconsulting505/PROJETO%20IGTI%20-%202025
