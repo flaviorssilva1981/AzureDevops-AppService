@@ -1,11 +1,11 @@
-🚀 End-to-End CI/CD on Azure with GitHub, Azure DevOps & Azure App Service
+### 🚀 End-to-End CI/CD on Azure with GitHub, Azure DevOps & Azure App Service
 
 ![Azure DevOps App Service Architecture](azure_devops_app_services.PNG)
 
 
 I recently worked on an Azure cloud architecture that automates deployments and provides full observability across environments.
 
-### Application use case: .NET EAD (Distance Learning) IT exam platform
+ ### Application use case: .NET EAD (Distance Learning) IT exam platform
 
 This project underpins an online EAD (Distance Learning) IT examination platform built on ASP.NET (.NET 8) and hosted on Azure App Service. The solution is optimized for reliable, scalable assessments with strong observability and DevOps foundations.
 
@@ -45,7 +45,7 @@ Operational best practices
 - Secrets and sensitive data handled via secure variables and secret stores—never committed to the repo.
 - Consistent tagging, naming conventions, and least-privilege access to state and cloud resources.
 
-# Azure DevOps capabilities used
+### Azure DevOps capabilities used
 
 - **Boards & Backlogs**: planning, prioritization, and roadmap visibility.
 - **Work Items & Queries**: end-to-end traceability and tailored reporting.
@@ -54,7 +54,7 @@ Operational best practices
 - **Dashboards**: live KPIs and operational health at a glance.
 - **Wiki**: living documentation for runbooks, architecture, and standards.
 
-# Links - URLs
+### Links - URLs
 
 - Here is the Github Repository: https://github.com/flaviorssilva1981/AzureDevops-AppService
 - Here is the Azure Devops Project: https://dev.azure.com/fsconsulting505/PROJETO%20IGTI%20-%202025
