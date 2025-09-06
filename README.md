@@ -1,4 +1,4 @@
-🚀 End-to-End CI/CD on Azure with GitHub, Azure DevOps & App Service
+🚀 End-to-End CI/CD on Azure with GitHub, Azure DevOps & Azure App Service
 
 ![Azure DevOps App Service Architecture](azure_devops_app_services.PNG)
 
